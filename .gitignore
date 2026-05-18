@@ -85,3 +85,4 @@ dist/
 .turbo/
 .eslintcache
 .stylelintcache
+__pycache__/
